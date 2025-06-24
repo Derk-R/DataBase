@@ -40,5 +40,55 @@
       "status": "Active",
       "created_at": "2021-03-03T08:25:00Z"
     }
-  ]
+  ],
+  "plugins": [
+        {
+          "id": 1,
+          "name": "Dark Mode",
+          "description": "Enables you to turn any page into dark mode. Saves your eyes and headaches. ",
+          "dev": "JKATBAT",
+          "status": "Active",
+          "created_at": "2023-05-01T14:48:00Z"
+        },
+        {
+          "id": 2,
+          "name": "AutoTranslate",
+          "description": "Automatically translates selected text into your preferred language in real-time.",
+          "dev": "LinguaSoft",
+          "status": "Inactive",
+          "created_at": "2023-08-14T09:22:00Z"
+        },
+        {
+          "id": 3,
+          "name": "Focus Mode",
+          "description": "Blocks distracting elements on websites to help you stay focused.",
+          "dev": "Productivio",
+          "status": "Active",
+          "created_at": "2022-11-02T17:45:00Z"
+        },
+        {
+          "id": 4,
+          "name": "Tab Saver",
+          "description": "Automatically saves and restores your open tabs on browser restart.",
+          "dev": "OpenTabs Inc.",
+          "status": "Active",
+          "created_at": "2023-01-19T12:05:00Z"
+        },
+        {
+          "id": 5,
+          "name": "News Filter",
+          "description": "Filters out clickbait and low-quality news sources from your feed.",
+          "dev": "Clarity Tools",
+          "status": "Inactive",
+          "created_at": "2024-03-03T07:30:00Z"
+        },
+        {
+          "id": 6,
+          "name": "Quick Notes",
+          "description": "Add sticky notes directly on any webpage. Perfect for research or reminders.",
+          "dev": "StickyDev",
+          "status": "Active",
+          "created_at": "2023-06-27T20:10:00Z"
+        }
+    ]
 }
